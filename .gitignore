@@ -1,0 +1,8 @@
+# untracked files;
+
+*.class
+*.*~
+
+# tracked files:
+!.gitignore
+
